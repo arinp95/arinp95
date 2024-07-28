@@ -1,4 +1,4 @@
-![logo](https://github.com/arinp95/arinp95/blob/main/DS_Banner.png)
+![logo](https://github.com/arinp95/arinp95/blob/main/Banner1.jpg)
 <h1 align="center">Hi 👋, I'm Arindam</h1>
 <h3 align="center">A data science enthusiast from NIT Bhopal, India</h3>
 
