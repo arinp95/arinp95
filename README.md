@@ -56,8 +56,8 @@ I'm a data science enthusiast pursuing B.Tech in Mathematics and Data Science at
   <img width="48" height="48" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github"/>&nbsp;
   <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter"/>&nbsp;
   <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colab_Logo.svg" alt="google-colab"/>&nbsp;
-  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Tableau_Logo.png" alt="tableau"/>&nbsp;
-  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Power_bi_logo_black.svg" alt="powerbi"/>&nbsp;
+  <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau"/>&nbsp;
+  <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="powerbi"/>&nbsp;
 </p>
 
 <br>
