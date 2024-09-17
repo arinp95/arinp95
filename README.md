@@ -42,22 +42,30 @@ I'm a data science enthusiast pursuing B.Tech in Mathematics and Data Science at
 
 ## 🧩 Technologies and Frameworks
 <p align="left">
-  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow"/>&nbsp;
-  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch"/>&nbsp;
-  <img height="48" src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_black.png" alt="opencv"/>&nbsp;
-  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn"/>&nbsp;
-  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="pandas"/>&nbsp;
-  <img width="48" height="48" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" alt="numpy"/>&nbsp;
-  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib"/>&nbsp;
-  <img width="48" height="48" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" alt="seaborn"/>&nbsp;
-  <img height="48" src="https://streamlit.io/images/brand/streamlit-mark-color.png?nf_resize=smartcrop&w=56&h=32" alt="streamlit"/>&nbsp;
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="mysql"/>&nbsp;
   <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git"/>&nbsp;
   <img width="48" height="48" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github"/>&nbsp;
   <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter"/>&nbsp;
   <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="google-colab"/>&nbsp;
+  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow"/>&nbsp;
+  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch"/>&nbsp;
+  <img height="48" src="https://streamlit.io/images/brand/streamlit-mark-color.png?nf_resize=smartcrop&w=56&h=32" alt="streamlit"/>&nbsp;
+  <img height="48" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="mysql"/>&nbsp;
+  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql"/>&nbsp;
+  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="sqlite"/>&nbsp;
   <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau"/>&nbsp;
   <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="powerbi"/>&nbsp;
+</p>
+
+## 📚 Libraries
+<p align="left">
+  <img width="48" height="48" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" alt="numpy"/>&nbsp;
+  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="pandas"/>&nbsp;
+  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib"/>&nbsp;
+  <img width="48" height="48" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" alt="seaborn"/>&nbsp;
+  <img height="48" src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_black.png" alt="opencv"/>&nbsp;
+  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow"/>&nbsp;
+  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras"/>&nbsp;
+  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn"/>&nbsp;
 </p>
 
 <br>
