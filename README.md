@@ -2,21 +2,19 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=probalkar&label=Profile%20views&color=0e75b6&style=flat" alt="probalkar" /> </p>
 <h1 align="center">Hi 👋, I'm Arindam</h1>
-==========================================
 
 <h3 align="center">A data science enthusiast from NIT Bhopal, India</h3>
-========================================================================
 
 I'm a data science enthusiast pursuing B.Tech in Mathematics and Data Science at NIT, Bhopal. I specialize in using machine learning and deep learning to address complex problems. My projects demonstrate my proficiency in managing full-cycle data science projects. Skilled in Python, ML/DL frameworks, SQL, and data visualization tools like Tableau and PowerBI. 
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arinp95&label=Profile%20views&color=0e75b6&style=flat" alt="arinp95" /> </p>
-- 🌍  I live in Bhopal, Madhya Pradesh
-- 🌱 I’m currently exploring **Data Science and Artificial Intelligence**
-- 👨‍💻 All of my projects are available at [https://github.com/arinp95](https://github.com/arinp95)
-- 📫 How to reach me **arindamphatowali@gmail.com**
-- ⚡ Fun fact **I am interesting 😅**
+* 🌍  I live in Bhopal, Madhya Pradesh
+* 🌱 I’m currently exploring **Data Science and Artificial Intelligence**
+* 👨‍💻 All of my projects are available at [https://github.com/arinp95](https://github.com/arinp95)
+* 📫 How to reach me: arindamphatowali@gmail.com
+* ⚡ Fun fact: I am interesting 😅
 
 <br />
 
