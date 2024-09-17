@@ -58,7 +58,7 @@
   <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql"/>&nbsp;
   <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="sqlite"/>&nbsp;
   <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau"/>&nbsp;
-  <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="powerbi"/>&nbsp;
+  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi"/>&nbsp;
 </p>
 
 <!-- Libraries Section -->
@@ -76,6 +76,7 @@
 
 <!-- GitHub Stats Section -->
 ## 🔥 GitHub Stats
-<p align="center">
+<p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arinp95&show_icons=true&locale=en&layout=compact" alt="arinp95" />
 </p>
+
