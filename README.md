@@ -24,8 +24,6 @@
 - 📫 How to reach me: **arindamphatowali@gmail.com**
 - ⚡ Fun fact: I'm interesting 😅
 
-<br>
-
 <!-- Connect with Me -->
 ## 📲 Connect with me
 <p align="left">
@@ -34,9 +32,7 @@
   </a>
 </p>
 
-<br>
-
-<!-- Languages Section -->
+<!-- Languages Section (Removed extra spacing) -->
 ## 📝 Languages
 <p align="left">
   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python"/>
@@ -47,8 +43,6 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/sql.png" alt="sql"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/r.png" alt="r"/>
 </p>
-
-<br>
 
 <!-- Technologies and Frameworks Section -->
 ## 🧩 Technologies and Frameworks
@@ -67,8 +61,6 @@
   <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="powerbi"/>&nbsp;
 </p>
 
-<br>
-
 <!-- Libraries Section -->
 ## 📚 Libraries
 <p align="left">
@@ -81,8 +73,6 @@
   <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras"/>&nbsp;
   <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn"/>&nbsp;
 </p>
-
-<br>
 
 <!-- GitHub Stats Section -->
 ## 🔥 GitHub Stats
