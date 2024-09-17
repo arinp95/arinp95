@@ -1,6 +1,6 @@
 ![](banner.gif)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=probalkar&label=Profile%20views&color=0e75b6&style=flat" alt="arinp95" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=arinp95&label=Profile%20views&color=0e75b6&style=flat" alt="arinp95" /> </p>
 <h1 align="center">Hi 👋, I'm Arindam</h1>
 
 <h3 align="center">A data science enthusiast from NIT Bhopal, India</h3>
