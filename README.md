@@ -24,7 +24,6 @@ I'm a data science enthusiast pursuing B.Tech in Mathematics and Data Science at
 <p align="left">
 <a href="https://linkedin.com/in/arinp95" target="blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
 </p>
-
 <br />
 
 ## 📝 Languages
