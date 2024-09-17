@@ -1,44 +1,56 @@
-![](banner.gif)
+<!-- Banner -->
+<p align="center">
+  <img src="banner.gif" alt="banner" />
+</p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=arinp95&label=Profile%20views&color=0e75b6&style=flat" alt="arinp95" /> </p>
+<!-- Profile Views Counter -->
+<p align="right" style="font-size: small;"> 
+  <img src="https://komarev.com/ghpvc/?username=arinp95&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<!-- Heading -->
 <h1 align="center">Hi 👋, I'm Arindam</h1>
-
 <h3 align="center">A data science enthusiast from NIT Bhopal, India</h3>
 
-I'm a data science enthusiast pursuing B.Tech in Mathematics and Data Science at NIT, Bhopal. I specialize in using machine learning and deep learning to address complex problems. My projects demonstrate my proficiency in managing full-cycle data science projects. Skilled in Python, ML/DL frameworks, SQL, and data visualization tools like Tableau and PowerBI. 
-
+<!-- About Section -->
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arinp95&label=Profile%20views&color=0e75b6&style=flat" alt="arinp95" /> </p>
-
 ### About Me
-* 🌍 I live in Bhopal, Madhya Pradesh
-* 🌱 I’m currently exploring **Data Science and Artificial Intelligence**
-* 👨‍💻 All of my projects are available at [https://github.com/arinp95](https://github.com/arinp95)
-* 📫 How to reach me: arindamphatowali@gmail.com
-* ⚡ Fun fact: I am interesting 😅
+- 🌍 Based in Bhopal, Madhya Pradesh, India
+- 🎓 Pursuing **B.Tech in Mathematics and Data Science** at **NIT Bhopal**
+- 💡 Passionate about solving problems using **Machine Learning** and **Deep Learning**
+- 👨‍💻 Check out my projects on [GitHub](https://github.com/arinp95)
+- 🌱 Currently exploring **Data Science** and **Artificial Intelligence**
+- 📫 How to reach me: **arindamphatowali@gmail.com**
+- ⚡ Fun fact: I'm interesting 😅
 
-<br />
+<br>
 
-# 📲 Connect with me
+<!-- Connect with Me -->
+## 📲 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/arinp95" target="blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
+  <a href="https://linkedin.com/in/arinp95" target="blank">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
+  </a>
 </p>
-<br />
 
+<br>
+
+<!-- Languages Section -->
 ## 📝 Languages
-<p align="left"> 
-<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/color/40/c-programming.png" alt="c-programming"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/sql.png" alt="sql"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/r.png" alt="r"/>
+<p align="left">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/40/c-programming.png" alt="c-programming"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/sql.png" alt="sql"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/r.png" alt="r"/>
 </p>
 
-<be>
+<br>
 
+<!-- Technologies and Frameworks Section -->
 ## 🧩 Technologies and Frameworks
 <p align="left">
   <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git"/>&nbsp;
@@ -55,6 +67,9 @@ I'm a data science enthusiast pursuing B.Tech in Mathematics and Data Science at
   <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="powerbi"/>&nbsp;
 </p>
 
+<br>
+
+<!-- Libraries Section -->
 ## 📚 Libraries
 <p align="left">
   <img width="48" height="48" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" alt="numpy"/>&nbsp;
@@ -69,4 +84,8 @@ I'm a data science enthusiast pursuing B.Tech in Mathematics and Data Science at
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arinp95&show_icons=true&locale=en&layout=compact" alt="arinp95" /></p>
+<!-- GitHub Stats Section -->
+## 🔥 GitHub Stats
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arinp95&show_icons=true&locale=en&layout=compact" alt="arinp95" />
+</p>
