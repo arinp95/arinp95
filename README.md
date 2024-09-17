@@ -26,6 +26,7 @@ I'm a data science enthusiast pursuing B.Tech in Mathematics and Data Science at
 </p>
 
 <br />
+
 ## 📝 Languages
 <p align="left"> 
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
@@ -37,7 +38,8 @@ I'm a data science enthusiast pursuing B.Tech in Mathematics and Data Science at
 <img width="48" height="48" src="https://img.icons8.com/color/48/r.png" alt="r"/>
 </p>
 
-<br>
+<be>
+
 ## 🧩 Technologies and Frameworks
 <p align="left">
   <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git"/>&nbsp;
