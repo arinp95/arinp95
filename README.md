@@ -15,7 +15,7 @@
 <!-- About Section -->
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
-### About Me
+# About Me
 - 🌍 Based in Bhopal, Madhya Pradesh, India
 - 🎓 Pursuing **B.Tech in Mathematics and Data Science** at **NIT Bhopal**
 - 💡 Passionate about solving problems using **Machine Learning** and **Deep Learning**
@@ -25,7 +25,7 @@
 - ⚡ Fun fact: I'm interesting 😅
 
 <!-- Connect with Me -->
-## 📲 Connect with me
+# 📲 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/arinp95" target="blank">
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
