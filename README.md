@@ -19,7 +19,7 @@
 - 🌍 Based in Bhopal, Madhya Pradesh, India
 - 🎓 Pursuing **B.Tech in Mathematics and Data Science** at **NIT Bhopal**
 - 💡 Passionate about solving problems using **Machine Learning** and **Deep Learning**
-- 👨‍💻 Check out my projects on [GitHub](https://github.com/arinp95)
+- 👨‍💻 Check out my projects on [GitHub](https://github.com/arinp95?tab=repositories)
 - 🌱 Currently exploring **Data Science** and **Artificial Intelligence**
 - 📫 How to reach me: **arindamphatowali@gmail.com**
 - ⚡ Fun fact: I'm interesting 😅
